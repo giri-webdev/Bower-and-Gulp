@@ -1,0 +1,22 @@
+{
+  "name": "BowerDemo",
+  "version": "1.0.0",
+  "authors": [
+    "Giri Prasad <giri-webdev@outlook.com>"
+  ],
+  "description": "Bower demo",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
